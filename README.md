@@ -32,18 +32,13 @@ To create an engaging and informative presentation that:
 - Understand the importance of checking URLs and email senders  
 - Best practices for reporting and preventing phishing attempts  
 
----
-
-## 📸 Sneak Peek
-
-You can view the presentation [here](link-to-your-pdf-file-in-repo).
 
 ---
 
 ## 📌 Developed As Part of
 
 **Internship at CodeAlpha** – Cybersecurity Domain  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-umar24) *(example)*
+🔗 [LinkedIn Profile](www.linkedin.com/in/jayaharini-ayyappan-25583a327) *(example)*
 
 ---
 
@@ -51,8 +46,8 @@ You can view the presentation [here](link-to-your-pdf-file-in-repo).
 
 If you have suggestions or want to collaborate, feel free to reach out.
 
-📧 Email: [your-email@example.com]  
-🌐 GitHub: [your-username](https://github.com/your-username)
+📧 Email: [jayahariniayyappan@gmail.com]  
+🌐 GitHub: (https://github.com/Jayahariniayyappan/Codealpha-_phishing_awareness/edit/main/README.md)
 
 ---
 
